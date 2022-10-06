@@ -1,5 +1,18 @@
-# KalbonyanElmarsos
+# About  KalbonyanElmarsos
+ Kalbonyan Elmarsos is an Egyptian non-profit organization whose goal is to help students become better developers and be able to deal and succeed with the global labor market and compete in it with strength and efficiency.
+ <br/>
 
+ <a href="https://www.linkedin.com/company/%D9%83%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B1%D8%B5%D9%88%D8%B5/" target="_blank"><img src="https://img.shields.io/badge/-Kalbonyan%20Elmarsos-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+### The Aim of this internship
+- <a href="#Fundamentals">Learn Programing Fundamentals ,HTMl and CSS </a>
+- <a href="#MERN">Learn MERN Stack</a>
+- <a href="#AWS">Learn How to Deploy your web applications with Cloud Provider (AWS)</a>
+- <a href="#serverless">Learn How to Make serverless web applications</a>
+
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20All%20Courses-%2B200h-blue">
+<br>
+
+- - - -
 # LinkedIn Learning Courses
 
 - [01-Programming-Foundation-Fundamentals](./-01-Programming-Foundation-Fundamentals/)
@@ -21,3 +34,46 @@
 - [09-Programming-Foundations-Software-TestingQA](./-09-Programming-Foundations-Software-TestingQA/)
 
 - [10-Learning-GitHub](./-10-Learning-GitHub/)
+
+<br>
+- - - -
+<!-- MERN -->
+
+<span id="MERN"></span>
+# MERN Stack
+![0%](https://progress-bar.dev/0/?title=Done)
+<br />
+## JavaScript - Select one of these 2 courses to complete
+- [ ]  `in progress` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](./02-Udemy/-02-Js-Andrew)
+- [ ]  `in progress` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](./02-Udemy/-02-Js-Jonas)
+## ReactJs - Select one of these 2 courses to complete
+- [ ]  `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](./02-Udemy/-03-Reactjs-Maximilian)
+- [ ]  `in progress` `39h` - 14 - [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](/02-Udemy/-03-Reactjs-ZTM)
+## NodeJs - Select one of these 2 courses to complete
+- [ ] `in progress` `35h` - 15 - [The Complete Node.js Developer Course (3rd Edition)](/02-Udemy/-04-Nodejs-Andrew)
+- [ ]  `in progress` `46h` - 15 - [Complete NodeJS Developer in 2022 (GraphQL, MongoDB, + more)](./02-Udemy/-04-Nodejs-ZTM)
+
+<!--<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-157h30m-blue"> -->
+<br />
+
+- - - -
+
+<!-- AWS -->
+<span id="AWS"></span>
+# Learn How to Deploy your web applications with Cloud Provider (AWS)
+![0%](https://progress-bar.dev/0/?title=Done)
+- [ ]  `in progress` `16h` - 16 - [AWS Certified Cloud Practitioner (CLF-C01)](03-aCloudGuru/AWS%20Certified%20Cloud%20Practitioner%20(CLF-C01)/)
+- [ ]  `in progress` `42h` - 17 - [AWS Certified Solutions Architect Associate (SAA-C02)](03-aCloudGuru/AWS%20Certified%20Solutions%20Architect%20Associate%20(SAA-C02))
+
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-58h-blue">
+<br />
+
+- - - -
+<!-- serverless -->
+<span id="serverless"></span>
+
+
+# Learn How to Make serverless web applications
+![0%](https://progress-bar.dev/0/?title=Done)
+- [ ] `in progress` - 18 - [Serverless Stack (SST)](04-Serverless-Stack-Project/)
+
